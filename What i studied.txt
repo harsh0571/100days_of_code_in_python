@@ -1,0 +1,3 @@
+String Concatination means merging of two strings using "+"
+
+to find the size of a string we can use : print(len(input()))
